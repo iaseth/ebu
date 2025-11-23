@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 import argparse
 
+from pyebu.utils import session
+
 
 
 def get_args():
